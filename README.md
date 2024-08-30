@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>پروفایل من</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -22,13 +21,10 @@
         }
         h1 {
             color: #2c3e50;
-            font-size: 2em;
-            margin-bottom: 20px;
         }
         p {
             font-size: 1.1em;
             line-height: 1.6;
-            margin-bottom: 20px;
         }
         .highlight {
             color: #3498db;
@@ -36,7 +32,6 @@
         }
         .emoji {
             font-size: 1.5em;
-            vertical-align: middle;
         }
         a {
             color: #3498db;
@@ -53,9 +48,9 @@
             border-radius: 20px;
             font-size: 0.9em;
             font-weight: bold;
-            vertical-align: middle;
         }
     </style>
+    <title>پروفایل من</title>
 </head>
 <body>
     <div class="container">

@@ -1,18 +1,9 @@
-👋 Hi, I’m @Ehsunpy!
+👋 **سلام! من احسان لک هستم.**
 
-👀 I have a keen interest in Python and am passionate about software development.
+🎓 **دانشجوی ارشد هوش مصنوعی** در دانشگاه آزاد تهران شمال و برنامه‌نویس **پایتون**. تخصص من در **توسعه نرم‌افزارهای بک‌اند** با استفاده از **فریم‌ورک Flask** و **برنامه‌نویسی هوش مصنوعی** و **ماشین لرنینگ** است.
 
-🌱 I have successfully completed CS50x and CS50 courses, building a solid foundation in computer science.
+📜 **دارای گواهینامه CS50P** و تجربه کار در **دانشگاه آزاد واحد دورود** و **شرکت فنی مهندسی مرسده**. هم‌اکنون در **🌱 شرکت دانش‌بنیان ارزش‌آفرینی منیر** فعالیت می‌کنم.
 
-💼 Currently, I’m working at MONIR Office as a Software Developer and an AI Developer.
+🔧 همیشه در تلاش برای یادگیری و توسعه مهارت‌های جدید در دنیای فناوری و برنامه‌نویسی هستم.
 
-💞 I’m looking to collaborate on interesting projects related to AI and software development.
-
-📫 Feel free to reach out to me through [insert your contact method here, e.g., email, LinkedIn, etc.].
-
-
-
-<!---
-Ehsunpy/Ehsunpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 برای مشاهده پروژه‌ها و کدهای من، می‌توانید به پروفایل گیت‌هاب من با آیدی **[Ehsunpy](https://github.com/Ehsunpy)** مراجعه کنید.

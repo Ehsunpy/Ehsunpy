@@ -1,7 +1,9 @@
 # 👋 سلام! من **احسان لک** هستم.
 
 <p align="center">
-  [![Programming GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)
+  <a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" target="_blank">
+    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Programming GIF" width="400"/>
+  </a>
 </p>
 
 # 🎓 **دانشجوی ارشد هوش مصنوعی** در دانشگاه آزاد تهران شمال و برنامه‌نویس **پایتون**. تخصص من در **توسعه نرم‌افزارهای بک‌اند** با استفاده از **فریم‌ورک Flask** و **برنامه‌نویسی هوش مصنوعی** و **ماشین لرنینگ** است.

@@ -1,4 +1,4 @@
-# 👋 سلام! من **احسان لک** هستم.
+# 👋 Hello! I am **Ehsan Lak**.
 
 <p align="center">
   <a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" target="_blank">
@@ -6,13 +6,13 @@
   </a>
 </p>
 
-# 🎓 **دانشجوی ارشد هوش مصنوعی** در دانشگاه آزاد تهران شمال و برنامه‌نویس **پایتون**. تخصص من در **توسعه نرم‌افزارهای بک‌اند** با استفاده از **فریم‌ورک Flask** و **برنامه‌نویسی هوش مصنوعی** و **ماشین لرنینگ** است.
+# 🎓 **Master's student in Artificial Intelligence** at Azad University of North Tehran and **Python** developer. My expertise is in **backend software development** using **Flask framework** and **Artificial Intelligence** and **Machine Learning** programming.
 
-# 📜 **دارای گواهینامه CS50P** و تجربه کار در **دانشگاه آزاد واحد دورود** و **شرکت فنی مهندسی مرسده**. هم‌اکنون در 🌱 **شرکت دانش‌بنیان ارزش‌آفرینی منیر** فعالیت می‌کنم.
+# 📜 **Certified in CS50P** with experience working at **Azad University, Dorood Branch** and **Marsede Engineering Company**. Currently working at 🌱 **Manir Value Creation Knowledge-Based Company**.
 
-# 🔧 همیشه در تلاش برای یادگیری و توسعه مهارت‌های جدید در دنیای فناوری و برنامه‌نویسی هستم.
+# 🔧 Always striving to learn and develop new skills in the world of technology and programming.
 
-# 🔗 برای مشاهده پروژه‌ها و کدهای من، می‌توانید به پروفایل گیت‌هاب من با آیدی [**Ehsunpy**](https://github.com/Ehsunpy) مراجعه کنید.
+# 🔗 To view my projects and codes, you can visit my GitHub profile with ID [**Ehsunpy**](https://github.com/Ehsunpy).
 
 <p align="center">
   <a href="https://github.com/Ehsunpy" target="_blank">

@@ -23,6 +23,11 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,django,docker,anaconda,py,pytorch,github,linux,tensorflow,sklearn,selenium,opencv," />
+  </a>
+</p>
 
 ---
 

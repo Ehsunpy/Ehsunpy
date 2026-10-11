@@ -1,56 +1,135 @@
-## 👋 Hey, I'm Ehsan Lak (Ehsunpy)
+ <div align="center">
 
- [github.com/Ehsunpy](https://github.com/Ehsunpy)
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=36BCF7&center=true&vCenter=true&lines=Hey%2C+I'm+Ehsan+Lak!;AI+Researcher+%26+Backend+Developer;Python+%7C+Flask+%7C+Machine+Learning" />
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=850&height=70&lines=Hey%2C+I'm+Ehsan+Lak+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Robotics+%26+Autonomous+Systems;Building+Intelligent+Systems+with+Python" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
+  <h3>AI & Machine Learning Engineer · Robotics · Python Developer</h3>
 
-## 👨‍💻 About Me  
-🎓 **Master's in Artificial Intelligence** | Python Backend Developer  
-💡 Passionate about **Machine Learning, Deep Learning, and AI**  
-🚀 Experienced in **Flask Framework** and **CS50P Certified**  
-📍 Currently working at **Manir Value Creation Knowledge-Based Company**  
+  <p>
+    <em>Turning ideas, data, and algorithms into intelligent systems.</em>
+  </p>
 
----
+  <p>
+    <a href="https://github.com/Ehsunpy">
+      <img src="https://img.shields.io/badge/GitHub-Ehsunpy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/ehsunpy">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/ehsunpy">
+      <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
+  </p>
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,docker,anaconda,py,pytorch,github,linux,tensorflow,sklearn,selenium,opencv," />
-  </a>
-</p>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Coding animation"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsunpy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsunpy&theme=radical" width="48%" />
-</p>
+I'm **Ehsan Lak (Ehsunpy)** — an AI and Robotics enthusiast passionate about building intelligent, data-driven systems and turning research into practical applications.
+
+- 🎓 **M.Sc. in Artificial Intelligence & Robotics**
+- 🧠 Interested in Machine Learning, Deep Learning, and Applied AI
+- 🚁 Exploring Autonomous UAVs, Navigation, and Flight Control
+- 🐍 Building Python backends, APIs, and data-driven applications
+- 📊 Working with time-series data, anomaly detection, and predictive systems
+- 🎯 Focused on combining AI research with real-world engineering
+
+> *Learn deeply. Build intelligently. Keep experimenting.*
+
 ---
 
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://github.com/Ehsunpy" target="_blank">
-    <img src="https://img.shields.io/github/followers/Ehsunpy?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/ehsunpy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/ehsunpy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" />
-  </a>
+## 🛠️ Tech Stack & Tools
+
+### Languages & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,git,github,gitlab" alt="Languages and backend tools"/>
 </p>
+
+### AI, Machine Learning & Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda" alt="AI and machine learning tools"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+### Development & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,postgres,qt,vscode" alt="Development and infrastructure tools"/>
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚁 Autonomous UAV Systems</h3>
+      Exploring autonomous flight, PX4, QGroundControl, navigation, telemetry, and intelligent drone systems.
+    </td>
+    <td width="50%">
+      <h3>🧠 Applied AI & Machine Learning</h3>
+      Developing ML workflows for time-series analysis, sensor anomaly detection, and predictive maintenance.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Python Backend Engineering</h3>
+      Designing APIs, backend services, and practical software systems with Python and modern frameworks.
+    </td>
+    <td width="50%">
+      <h3>🔬 Research & Experimentation</h3>
+      Exploring algorithms, evaluating models, and transforming technical ideas into working prototypes.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ehsunpy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Ehsan's GitHub statistics"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsunpy&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages"/>
+
+  <br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=Ehsunpy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building intelligent autonomous systems
+- Advancing practical Machine Learning and Deep Learning skills
+- Developing reliable Python APIs and data pipelines
+- Exploring AI applications in robotics and industrial systems
+- Learning by building, testing, and improving real projects
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in AI research, robotics, open-source development, and projects that solve meaningful real-world problems.
+
+<div align="center">
+
+  <a href="https://github.com/Ehsunpy">
+    <img src="https://img.shields.io/github/followers/Ehsunpy?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/>
+  </a>
+
+  <br/><br/>
+
+  **Thanks for stopping by!** ⭐  
+  *Explore my repositories, follow my experiments, and let's build something intelligent.*
+
+</div>

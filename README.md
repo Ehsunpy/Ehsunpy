@@ -1,4 +1,3 @@
-```markdown
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                    EHSUNPY · PROFILE README                  -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
@@ -251,4 +250,3 @@ I believe the best way to understand a system is to build it, test it, break it,
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:102A43,100:080B16&height=100&section=footer" alt="Footer decoration"/>
 
 </div>
-```

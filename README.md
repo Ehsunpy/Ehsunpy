@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <a href="https://github.com/Ehsunpy">
@@ -226,4 +225,4 @@ Exploring the intersection of language intelligence, knowledge retrieval, machin
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:102A43,100:080B16&height=100&section=footer" alt="Footer"/>
 
 </div>
-```
+
